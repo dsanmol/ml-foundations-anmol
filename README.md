@@ -1,7 +1,8 @@
 This repository documents my 6–8 month journey to becoming a production-ready ML engineer.
 Focus: fundamentals, failure modes, and real-world ML systems.
 28/02/2026-EDA Project: E-commerce Customer Behavior
-📌 Project Overview
+
+Project Overview
 This project is an Exploratory Data Analysis (EDA) step conducted as part of a data science / machine learning workflow.
 The objective was to deeply understand the dataset, identify patterns, validate assumptions, and extract signals that could later be used for feature engineering and predictive modeling.
 Dataset: E-commerce Customer Behavior - Sheet1.csv
