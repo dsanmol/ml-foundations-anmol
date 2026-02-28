@@ -31,6 +31,8 @@ Potential Extensions: Customer segmentation, churn prediction, recommendation sy
 1. Customers in lower membership tiers show higher dissatisfaction → possible churn signal.
 2.Customers inactive for 30–45 days exhibit elevated dissatisfaction → strong candidate feature for churn prediction models.
 
+
+Check The WEEK1_DAY3&DAY4 notebook to see the code of the project
 **Next ML-Oriented Steps**
 1. Feature engineering using membership level, recency, and satisfaction
 2. Customer segmentation using clustering
