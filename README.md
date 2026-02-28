@@ -1,5 +1,6 @@
 This repository documents my 6–8 month journey to becoming a production-ready ML engineer.
 Focus: fundamentals, failure modes, and real-world ML systems.
+
 28/02/2026-EDA Project: E-commerce Customer Behavior
 
 Project Overview
