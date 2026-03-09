@@ -33,6 +33,14 @@ Potential Extensions: Customer segmentation, churn prediction, recommendation sy
 1. Customers in lower membership tiers show higher dissatisfaction → possible churn signal.
 2.Customers inactive for 30–45 days exhibit elevated dissatisfaction → strong candidate feature for churn prediction models.
 
+
+Check The WEEK1_DAY3&DAY4 notebook to see the code of the project
+**Next ML-Oriented Steps**
+1. Feature engineering using membership level, recency, and satisfaction
+2. Customer segmentation using clustering
+3. Supervised models for churn or spend prediction
+
+
 09/03/2026
 **Exploring the fundamentals of python**
 This week analysed the use of python at a production level via FastApi source code 
@@ -41,10 +49,3 @@ According to me
 2. We focus on having minimal amount of code and focus is more on reusability we do that by using decorators which helps in modifying the behaviour of function by simpliy wrapping them by accepting them as parameters this is possible in python as python treats function as first class object which allows functions to be passed as parameters and returned  as values.
 3. In production level environment, we focus on error handling so that the most unexpected error can be handled easily via custom exceptions invocation and exception handling mechanisms.
  
-
-
-Check The WEEK1_DAY3&DAY4 notebook to see the code of the project
-**Next ML-Oriented Steps**
-1. Feature engineering using membership level, recency, and satisfaction
-2. Customer segmentation using clustering
-3. Supervised models for churn or spend prediction
